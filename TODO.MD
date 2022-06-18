@@ -1,0 +1,1 @@
+// if (logged_in_user === admin and trying to remove isAdmin check) throw error(contact super admin)
